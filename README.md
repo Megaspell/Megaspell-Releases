@@ -1,6 +1,6 @@
 # Launcher / Лаунчер
-[**Windows**](https://github.com/Megaspell/MegaspellLauncher/releases/latest/download/Megaspell-Launcher-Installer.exe)
-[**Linux**](https://github.com/Megaspell/MegaspellLauncher/releases/latest/download/Megaspell-Launcher.AppImage)
+[**Windows**](https://github.com/Megaspell/MegaspellLauncher/releases/latest/download/Megaspell-Launcher-Installer.exe)  
+[**Linux**](https://github.com/Megaspell/MegaspellLauncher/releases/latest/download/Megaspell-Launcher.AppImage)  
 
 # Direct downloads / Прямые загрузки
 [**Windows**](https://github.com/Megaspell/Megaspell-Releases/releases/latest/download/PlayerWindows64.zip)  
