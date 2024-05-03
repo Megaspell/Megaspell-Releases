@@ -16,7 +16,7 @@
    **Example command:** `./Megaspell -nographics -batchmode --port 7777 --maxPlayers 20 --disableAuth --mode DeathMatch --level ManehattenSuburbs --serverName "A Megaspell Server"`
 
 ### On Windows
-1. Either download `PlayerLinux64.zip` release artifact, or download it using launcher and open it's folder.
+1. Either download `PlayerWindows64.zip` release artifact, or download it using launcher (you can find game folder in launcher settings).
 2. Make sure that firewall allows Megaspell to start on specified port (default 7777).
 3. Run server using propert arguments.   
    **Example command:** `Megaspell.exe -nographics -batchmode --port 7777 --maxPlayers 20 --disableAuth --mode DeathMatch --level ManehattenSuburbs --serverName "A Megaspell Server"`
